@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{78ECC2C6-F05C-46C5-A2A2-7E73CBAB7A6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Hosting.WindowsService", "AspNetCore.Hosting.WindowsService\AspNetCore.Hosting.WindowsService.csproj", "{4BE642D6-486F-4586-9276-D8584431591F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78ECC2C6-F05C-46C5-A2A2-7E73CBAB7A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78ECC2C6-F05C-46C5-A2A2-7E73CBAB7A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78ECC2C6-F05C-46C5-A2A2-7E73CBAB7A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78ECC2C6-F05C-46C5-A2A2-7E73CBAB7A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE642D6-486F-4586-9276-D8584431591F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE642D6-486F-4586-9276-D8584431591F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE642D6-486F-4586-9276-D8584431591F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE642D6-486F-4586-9276-D8584431591F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
